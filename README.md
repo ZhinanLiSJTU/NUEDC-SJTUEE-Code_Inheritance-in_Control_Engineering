@@ -7,6 +7,8 @@ In 2025, only two teams chose the Control Engineering track and successfully com
 
 We warmly welcome all SJTU EE students to contribute your experiences, code, and project insights related to the Control Engineering track in NUEDC to this repository. Together, we can build a stronger foundation for those who follow.
 
+[交大云盘版本 2025年积累](https://pan.sjtu.edu.cn/web/share/f4ce54eaebc75320d9a3416581448a3f)
+
 > List of Contributors:
 > 
 > Dehao Ye, Siying Chen, Zhinan Li(2025)
