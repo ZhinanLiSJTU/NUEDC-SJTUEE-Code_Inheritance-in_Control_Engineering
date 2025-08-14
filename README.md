@@ -11,6 +11,6 @@ We warmly welcome all SJTU EE students to contribute your experiences, code, and
 
 > List of Contributors:
 > 
-> Dehao Ye, Siying Chen, Zhinan Li(2025)
+> Zhinan Li, Dehao Ye, Siying Chen(2025)
 > 
-> Fuhao Chen, Hanyu Zhou, Xin Chun(2025)
+> Fuhao Chen, Xin Chun, Hanyu Zhou(2025)
